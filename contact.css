@@ -114,7 +114,7 @@ textarea{
     border: 2px solid rgba(30,85,250,0.47);
     background-color: #fff;
 }
-
+/* media query started */
 @media screen and (max-width: 880px){
 	.contact-box{
 		grid-template-columns: 1fr;
